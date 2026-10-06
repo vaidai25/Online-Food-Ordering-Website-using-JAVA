@@ -29,3 +29,30 @@ A sleek, full-stack online food ordering web application built as an engineering
  ┣ 📜 index.html                # Main application layout and modal structures
  ┣ 📜 style.css                 # Custom styling, animations, and color palette
  ┗ 📜 app.js                    # Client-side routing, cart state, and API fetching
+```
+
+🚀 Getting Started
+Prerequisites
+Java JDK (Version 11 or higher)
+
+VS Code with the Live Server extension installed.
+
+Installation & Execution
+1. Start the Java Backend Engine
+Open your terminal in the project directory and run the server file directly:
+
+Bash
+```text
+java FoodOrderingServer.java
+```
+You should see a success message indicating the API is running on port 8080.
+
+2. Launch the Frontend
+
+Open the project folder in VS Code.
+
+Right-click on index.html and select "Open with Live Server".
+
+The application will open in your default browser. Check the top navigation bar for the "Java Backend Connected" badge to verify the full-stack connection.
+
+Developed by: Vaidai Balapure
